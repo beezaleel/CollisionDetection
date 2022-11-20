@@ -1,0 +1,7 @@
+assets/models/megacity.ply
+City
+assets/models/skypirate.ply
+Boat
+assets/models/sphere.ply
+ISOSphere
+EOF
